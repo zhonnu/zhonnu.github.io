@@ -1,5 +1,5 @@
 # Gentrification in Seattle
-![](https://example.com/gentrification-seattle-image.jpg)
+![](https://www.seattletraffic.org/wp-content/uploads/2021/08/Traffic-Operations1-2048x1367.jpg)
 
 Gentrification is a complex phenomenon that has significantly impacted cities around the world. This Markdown file aims to provide an overview of the gentrification issues specifically in Seattle. Throughout the document, you'll find **bold** and *italic* formatting, [hyperlinks](url), and ![images](url) that help shed light on this topic and its implications.
 
